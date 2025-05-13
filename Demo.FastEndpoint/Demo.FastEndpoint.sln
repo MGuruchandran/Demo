@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.FastEndpoint", "Demo.FastEndpoint.csproj", "{BD65AB17-4CBE-4673-9610-A28BCA183412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD65AB17-4CBE-4673-9610-A28BCA183412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD65AB17-4CBE-4673-9610-A28BCA183412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD65AB17-4CBE-4673-9610-A28BCA183412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD65AB17-4CBE-4673-9610-A28BCA183412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4C58FD-7816-4D79-9E04-8D739A8C60DD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+test-app-api:
+  replicaCount: 1
+
+image:
+  repository: gmohandass281/aspnetapp1
+  pullPolicy: IfNotPresent
+  tag: "latest"
+
+service:
+  type: ClusterIP
+  internalPort: 8080
+  externalPort: 64422
+  name: job-svc
+  port: 8080
+
+ingress:
+  enabled: true
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: "/"
+  hosts:
+  - host: chart-example.local
+    paths:
+    - "/Privacy"
+
+autoscaling:
+  enabled: false
+
+serviceAccount:
+  create: false
+
+livenessProbe:
+  failureThreshold: 3
+  httpGet:
+    path: /healthz
+    port: 8080
+    scheme: HTTP
+  initialDelaySeconds: 1
+  periodSeconds: 30
+  successThreshold: 1
+  timeoutSeconds: 3

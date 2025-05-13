@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BO9Rki26yzo=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Practice\\Demo.RateLimiter\\Demo.RateLimiter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmohandass\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

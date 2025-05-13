@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webhook.Demo", "..\Webhook.Demo\Webhook.Demo.csproj", "{A56FCA23-1E16-30DB-43C4-59C3760AD2F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.WebHook.AppHost", "Demo.WebHook.AppHost\Demo.WebHook.AppHost.csproj", "{9A133242-F45F-4C86-8699-BE613F6D47FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.WebHook.ServiceDefaults", "Demo.WebHook.ServiceDefaults\Demo.WebHook.ServiceDefaults.csproj", "{4C3E30B1-F55C-48BB-873C-AA3B2FCB7236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A56FCA23-1E16-30DB-43C4-59C3760AD2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56FCA23-1E16-30DB-43C4-59C3760AD2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56FCA23-1E16-30DB-43C4-59C3760AD2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56FCA23-1E16-30DB-43C4-59C3760AD2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A133242-F45F-4C86-8699-BE613F6D47FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A133242-F45F-4C86-8699-BE613F6D47FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A133242-F45F-4C86-8699-BE613F6D47FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A133242-F45F-4C86-8699-BE613F6D47FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3E30B1-F55C-48BB-873C-AA3B2FCB7236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3E30B1-F55C-48BB-873C-AA3B2FCB7236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3E30B1-F55C-48BB-873C-AA3B2FCB7236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3E30B1-F55C-48BB-873C-AA3B2FCB7236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D4A22D-84E6-419A-8F5E-1884C2EACA70}
+	EndGlobalSection
+EndGlobal

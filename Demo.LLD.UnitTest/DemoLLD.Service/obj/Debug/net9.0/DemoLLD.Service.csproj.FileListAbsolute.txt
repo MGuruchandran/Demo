@@ -1,0 +1,12 @@
+C:\Dev\Practice\Demo.LLD.UnitTest\DemoLLD.Service\bin\Debug\net9.0\DemoLLD.Service.deps.json
+C:\Dev\Practice\Demo.LLD.UnitTest\DemoLLD.Service\bin\Debug\net9.0\DemoLLD.Service.dll
+C:\Dev\Practice\Demo.LLD.UnitTest\DemoLLD.Service\bin\Debug\net9.0\DemoLLD.Service.pdb
+C:\Dev\Practice\Demo.LLD.UnitTest\DemoLLD.Service\obj\Debug\net9.0\DemoLLD.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Practice\Demo.LLD.UnitTest\DemoLLD.Service\obj\Debug\net9.0\DemoLLD.Service.AssemblyInfoInputs.cache
+C:\Dev\Practice\Demo.LLD.UnitTest\DemoLLD.Service\obj\Debug\net9.0\DemoLLD.Service.AssemblyInfo.cs
+C:\Dev\Practice\Demo.LLD.UnitTest\DemoLLD.Service\obj\Debug\net9.0\DemoLLD.Service.csproj.CoreCompileInputs.cache
+C:\Dev\Practice\Demo.LLD.UnitTest\DemoLLD.Service\obj\Debug\net9.0\DemoLLD.Service.dll
+C:\Dev\Practice\Demo.LLD.UnitTest\DemoLLD.Service\obj\Debug\net9.0\refint\DemoLLD.Service.dll
+C:\Dev\Practice\Demo.LLD.UnitTest\DemoLLD.Service\obj\Debug\net9.0\DemoLLD.Service.pdb
+C:\Dev\Practice\Demo.LLD.UnitTest\DemoLLD.Service\obj\Debug\net9.0\ref\DemoLLD.Service.dll
+C:\Dev\Practice\Demo.LLD.UnitTest\DemoLLD.Service\obj\Debug\net9.0\DemoLLD.Service.csproj.AssemblyReference.cache

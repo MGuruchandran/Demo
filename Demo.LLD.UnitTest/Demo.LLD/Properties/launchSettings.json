@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Demo.LLD": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

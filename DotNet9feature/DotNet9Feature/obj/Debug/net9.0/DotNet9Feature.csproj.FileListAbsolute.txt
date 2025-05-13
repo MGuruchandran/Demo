@@ -1,0 +1,14 @@
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\bin\Debug\net9.0\DotNet9Feature.exe
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\bin\Debug\net9.0\DotNet9Feature.deps.json
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\bin\Debug\net9.0\DotNet9Feature.runtimeconfig.json
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\bin\Debug\net9.0\DotNet9Feature.dll
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\bin\Debug\net9.0\DotNet9Feature.pdb
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\obj\Debug\net9.0\DotNet9Feature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\obj\Debug\net9.0\DotNet9Feature.AssemblyInfoInputs.cache
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\obj\Debug\net9.0\DotNet9Feature.AssemblyInfo.cs
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\obj\Debug\net9.0\DotNet9Feature.csproj.CoreCompileInputs.cache
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\obj\Debug\net9.0\DotNet9Feature.dll
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\obj\Debug\net9.0\refint\DotNet9Feature.dll
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\obj\Debug\net9.0\DotNet9Feature.pdb
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\obj\Debug\net9.0\DotNet9Feature.genruntimeconfig.cache
+C:\Dev\Practice\DotNet9feature\DotNet9Feature\obj\Debug\net9.0\ref\DotNet9Feature.dll

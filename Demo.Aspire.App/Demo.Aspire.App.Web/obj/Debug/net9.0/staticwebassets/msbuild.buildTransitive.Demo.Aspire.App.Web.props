@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Demo.Aspire.App.Web.props" />
+</Project>

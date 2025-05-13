@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Practice\\Demo.FastEndpoint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|c:\\dev\\practice\\demo.fastendpoint\\features\\author\\signup\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|solutionrelative:features\\author\\signup\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|c:\\dev\\practice\\demo.fastendpoint\\features\\author\\signup\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|solutionrelative:features\\author\\signup\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|c:\\dev\\practice\\demo.fastendpoint\\features\\author\\signup\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|solutionrelative:features\\author\\signup\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|c:\\dev\\practice\\demo.fastendpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|c:\\dev\\practice\\demo.fastendpoint\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|solutionrelative:entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|c:\\dev\\practice\\demo.fastendpoint\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|solutionrelative:entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|c:\\dev\\practice\\demo.fastendpoint\\demo.fastendpoint.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|solutionrelative:demo.fastendpoint.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|c:\\dev\\practice\\demo.fastendpoint\\features\\author\\signup\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|solutionrelative:features\\author\\signup\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|c:\\dev\\practice\\demo.fastendpoint\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD65AB17-4CBE-4673-9610-A28BCA183412}|Demo.FastEndpoint.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "Entities\\Author.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Entities\\Author.cs",
+              "RelativeToolTip": "Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:11:20.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Entities\\Admin.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Entities\\Admin.cs",
+              "RelativeToolTip": "Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:11:09.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Demo.FastEndpoint",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Demo.FastEndpoint.csproj",
+              "RelativeDocumentMoniker": "Demo.FastEndpoint.csproj",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Demo.FastEndpoint.csproj",
+              "RelativeToolTip": "Demo.FastEndpoint.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T20:10:52.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Features\\Author\\Signup\\Mapper.cs",
+              "RelativeDocumentMoniker": "Features\\Author\\Signup\\Mapper.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Features\\Author\\Signup\\Mapper.cs",
+              "RelativeToolTip": "Features\\Author\\Signup\\Mapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:55:50.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T19:17:11.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Features\\Author\\Signup\\Models.cs",
+              "RelativeDocumentMoniker": "Features\\Author\\Signup\\Models.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Features\\Author\\Signup\\Models.cs",
+              "RelativeToolTip": "Features\\Author\\Signup\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:13:35.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Features\\Author\\Signup\\Endpoint.cs",
+              "RelativeDocumentMoniker": "Features\\Author\\Signup\\Endpoint.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Features\\Author\\Signup\\Endpoint.cs*",
+              "RelativeToolTip": "Features\\Author\\Signup\\Endpoint.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:12:49.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Features\\Author\\Signup\\Data.cs",
+              "RelativeDocumentMoniker": "Features\\Author\\Signup\\Data.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Features\\Author\\Signup\\Data.cs",
+              "RelativeToolTip": "Features\\Author\\Signup\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:12:26.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.FastEndpoint\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:55:45.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

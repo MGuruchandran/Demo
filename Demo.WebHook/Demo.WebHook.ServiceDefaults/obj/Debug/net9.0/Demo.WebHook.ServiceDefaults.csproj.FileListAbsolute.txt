@@ -1,0 +1,12 @@
+C:\Dev\Practice\Demo.WebHook\Demo.WebHook.ServiceDefaults\bin\Debug\net9.0\Demo.WebHook.ServiceDefaults.deps.json
+C:\Dev\Practice\Demo.WebHook\Demo.WebHook.ServiceDefaults\bin\Debug\net9.0\Demo.WebHook.ServiceDefaults.dll
+C:\Dev\Practice\Demo.WebHook\Demo.WebHook.ServiceDefaults\bin\Debug\net9.0\Demo.WebHook.ServiceDefaults.pdb
+C:\Dev\Practice\Demo.WebHook\Demo.WebHook.ServiceDefaults\obj\Debug\net9.0\Demo.WebHook.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Dev\Practice\Demo.WebHook\Demo.WebHook.ServiceDefaults\obj\Debug\net9.0\Demo.WebHook.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Practice\Demo.WebHook\Demo.WebHook.ServiceDefaults\obj\Debug\net9.0\Demo.WebHook.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Dev\Practice\Demo.WebHook\Demo.WebHook.ServiceDefaults\obj\Debug\net9.0\Demo.WebHook.ServiceDefaults.AssemblyInfo.cs
+C:\Dev\Practice\Demo.WebHook\Demo.WebHook.ServiceDefaults\obj\Debug\net9.0\Demo.WebHook.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Dev\Practice\Demo.WebHook\Demo.WebHook.ServiceDefaults\obj\Debug\net9.0\Demo.WebHook.ServiceDefaults.dll
+C:\Dev\Practice\Demo.WebHook\Demo.WebHook.ServiceDefaults\obj\Debug\net9.0\refint\Demo.WebHook.ServiceDefaults.dll
+C:\Dev\Practice\Demo.WebHook\Demo.WebHook.ServiceDefaults\obj\Debug\net9.0\Demo.WebHook.ServiceDefaults.pdb
+C:\Dev\Practice\Demo.WebHook\Demo.WebHook.ServiceDefaults\obj\Debug\net9.0\ref\Demo.WebHook.ServiceDefaults.dll

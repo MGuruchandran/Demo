@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF073337-2DB8-4DF3-8587-DDB5C45137F1}|Demo.LLD\\Demo.LLD.csproj|c:\\dev\\practice\\demo.lld.unittest\\demo.lld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF073337-2DB8-4DF3-8587-DDB5C45137F1}|Demo.LLD\\Demo.LLD.csproj|solutionrelative:demo.lld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|c:\\dev\\practice\\demo.lld.unittest\\demolld.service\\services\\handler\\messagehandlerstepone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|solutionrelative:demolld.service\\services\\handler\\messagehandlerstepone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|c:\\dev\\practice\\demo.lld.unittest\\demolld.service\\services\\cache\\inmemorycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|solutionrelative:demolld.service\\services\\cache\\inmemorycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|c:\\dev\\practice\\demo.lld.unittest\\demolld.service\\services\\ratelimiter\\slidingwindowratelimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|solutionrelative:demolld.service\\services\\ratelimiter\\slidingwindowratelimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|c:\\dev\\practice\\demo.lld.unittest\\demolld.service\\services\\queue\\distributedqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|solutionrelative:demolld.service\\services\\queue\\distributedqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|c:\\dev\\practice\\demo.lld.unittest\\demolld.service\\services\\designpattern\\observerpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|solutionrelative:demolld.service\\services\\designpattern\\observerpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|c:\\dev\\practice\\demo.lld.unittest\\demolld.service\\services\\cache\\distributedmemorycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|solutionrelative:demolld.service\\services\\cache\\distributedmemorycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|c:\\dev\\practice\\demo.lld.unittest\\demolld.service\\services\\ratelimiter\\tokenbucket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17FBD65-8A5F-4D5D-8D3A-B2B82E9A9365}|DemoLLD.Service\\DemoLLD.Service.csproj|solutionrelative:demolld.service\\services\\ratelimiter\\tokenbucket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageHandlerStepOne.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\Handler\\MessageHandlerStepOne.cs",
+              "RelativeDocumentMoniker": "DemoLLD.Service\\Services\\Handler\\MessageHandlerStepOne.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\Handler\\MessageHandlerStepOne.cs",
+              "RelativeToolTip": "DemoLLD.Service\\Services\\Handler\\MessageHandlerStepOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:35:49.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObserverPattern.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\DesignPattern\\ObserverPattern.cs",
+              "RelativeDocumentMoniker": "DemoLLD.Service\\Services\\DesignPattern\\ObserverPattern.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\DesignPattern\\ObserverPattern.cs",
+              "RelativeToolTip": "DemoLLD.Service\\Services\\DesignPattern\\ObserverPattern.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:24:03.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DistributedQueue.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\Queue\\DistributedQueue.cs",
+              "RelativeDocumentMoniker": "DemoLLD.Service\\Services\\Queue\\DistributedQueue.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\Queue\\DistributedQueue.cs",
+              "RelativeToolTip": "DemoLLD.Service\\Services\\Queue\\DistributedQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T03:26:03.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SlidingWindowRateLimiter.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\RateLimiter\\SlidingWindowRateLimiter.cs",
+              "RelativeDocumentMoniker": "DemoLLD.Service\\Services\\RateLimiter\\SlidingWindowRateLimiter.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\RateLimiter\\SlidingWindowRateLimiter.cs",
+              "RelativeToolTip": "DemoLLD.Service\\Services\\RateLimiter\\SlidingWindowRateLimiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:57:20.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DistributedMemoryCache.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\Cache\\DistributedMemoryCache.cs",
+              "RelativeDocumentMoniker": "DemoLLD.Service\\Services\\Cache\\DistributedMemoryCache.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\Cache\\DistributedMemoryCache.cs",
+              "RelativeToolTip": "DemoLLD.Service\\Services\\Cache\\DistributedMemoryCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:45:09.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\Demo.LLD\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.LLD\\Program.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\Demo.LLD\\Program.cs",
+              "RelativeToolTip": "Demo.LLD\\Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAApwJkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:33:06.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryCache.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\Cache\\InMemoryCache.cs",
+              "RelativeDocumentMoniker": "DemoLLD.Service\\Services\\Cache\\InMemoryCache.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\Cache\\InMemoryCache.cs",
+              "RelativeToolTip": "DemoLLD.Service\\Services\\Cache\\InMemoryCache.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:26:56.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenBucket.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\RateLimiter\\TokenBucket.cs",
+              "RelativeDocumentMoniker": "DemoLLD.Service\\Services\\RateLimiter\\TokenBucket.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\Services\\RateLimiter\\TokenBucket.cs",
+              "RelativeToolTip": "DemoLLD.Service\\Services\\RateLimiter\\TokenBucket.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:20:58.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

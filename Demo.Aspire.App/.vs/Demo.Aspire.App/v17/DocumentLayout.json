@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Practice\\Demo.Aspire.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\services\\webhookdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\services\\webhookdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\test\\webhook.demo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\test\\webhook.demo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\models\\webhookpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\models\\webhookpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6D9379-59C0-4283-A246-90C4CAAA8561}|Demo.Aspire.App.AppHost\\Demo.Aspire.App.AppHost.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6D9379-59C0-4283-A246-90C4CAAA8561}|Demo.Aspire.App.AppHost\\Demo.Aspire.App.AppHost.csproj|solutionrelative:demo.aspire.app.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\extension\\webapplicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\extension\\webapplicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\models\\webhookdeliveryattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\models\\webhookdeliveryattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\data\\webhooksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\data\\webhooksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\migrations\\20250225220338_create_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\migrations\\20250225220338_create_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\migrations\\webhooksdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\migrations\\webhooksdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\models\\webhooksubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\models\\webhooksubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFBE431-EADE-5F2E-4201-83B7D7988F6D}|Demo.Aspire.App.ServiceDefaults\\Demo.Aspire.App.ServiceDefaults.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFBE431-EADE-5F2E-4201-83B7D7988F6D}|Demo.Aspire.App.ServiceDefaults\\Demo.Aspire.App.ServiceDefaults.csproj|solutionrelative:demo.aspire.app.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.apiservice\\demo.aspire.app.apiservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EE1E7C21-004D-B3BA-714C-A55DF7501F22}|Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj|solutionrelative:demo.aspire.app.apiservice\\demo.aspire.app.apiservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A562E92A-0654-14AD-8881-5A26A2F7A84D}|Demo.Aspire.App.Web\\Demo.Aspire.App.Web.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A562E92A-0654-14AD-8881-5A26A2F7A84D}|Demo.Aspire.App.Web\\Demo.Aspire.App.Web.csproj|solutionrelative:demo.aspire.app.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A562E92A-0654-14AD-8881-5A26A2F7A84D}|Demo.Aspire.App.Web\\Demo.Aspire.App.Web.csproj|c:\\dev\\practice\\demo.aspire.app\\demo.aspire.app.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A562E92A-0654-14AD-8881-5A26A2F7A84D}|Demo.Aspire.App.Web\\Demo.Aspire.App.Web.csproj|solutionrelative:demo.aspire.app.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebhookPayload.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Models\\WebhookPayload.cs",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\Models\\WebhookPayload.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Models\\WebhookPayload.cs",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\Models\\WebhookPayload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:59:23.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebhooksDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Migrations\\WebhooksDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\Migrations\\WebhooksDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Migrations\\WebhooksDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\Migrations\\WebhooksDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:41:35.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Webhook.Demo.http",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Test\\Webhook.Demo.http",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\Test\\Webhook.Demo.http",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Test\\Webhook.Demo.http",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\Test\\Webhook.Demo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-25T22:14:14.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T22:13:46.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApplicationExtensions.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Extension\\WebApplicationExtensions.cs",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\Extension\\WebApplicationExtensions.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Extension\\WebApplicationExtensions.cs",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\Extension\\WebApplicationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:07:03.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250225220338_Create_Database.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Migrations\\20250225220338_Create_Database.cs",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\Migrations\\20250225220338_Create_Database.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Migrations\\20250225220338_Create_Database.cs",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\Migrations\\20250225220338_Create_Database.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:03:38.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Demo.Aspire.App.ApiService",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\Demo.Aspire.App.ApiService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T22:00:59.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebhookDispatcher.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\services\\WebhookDispatcher.cs",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\services\\WebhookDispatcher.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\services\\WebhookDispatcher.cs",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\services\\WebhookDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:56:02.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebhookSubscription.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Models\\WebhookSubscription.cs",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\Models\\WebhookSubscription.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Models\\WebhookSubscription.cs",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\Models\\WebhookSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:54:03.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebhookDeliveryAttempt.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Models\\WebhookDeliveryAttempt.cs",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\Models\\WebhookDeliveryAttempt.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Models\\WebhookDeliveryAttempt.cs",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\Models\\WebhookDeliveryAttempt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:53:49.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\Models\\Order.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Models\\Order.cs",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:53:31.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebhooksDbContext.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Data\\WebhooksDbContext.cs",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\Data\\WebhooksDbContext.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Data\\WebhooksDbContext.cs",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\Data\\WebhooksDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:52:27.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\appsettings.json",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\appsettings.json",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T18:12:45.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.Web\\appsettings.json",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.Web\\appsettings.json",
+              "RelativeToolTip": "Demo.Aspire.App.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T18:12:39.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ApiService\\Program.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ApiService\\Program.cs",
+              "RelativeToolTip": "Demo.Aspire.App.ApiService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:55:22.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.Web\\Program.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.Web\\Program.cs",
+              "RelativeToolTip": "Demo.Aspire.App.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:21:38.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.AppHost\\Program.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.AppHost\\Program.cs",
+              "RelativeToolTip": "Demo.Aspire.App.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:21:08.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "Demo.Aspire.App.ServiceDefaults\\Extensions.cs",
+              "ToolTip": "C:\\Dev\\Practice\\Demo.Aspire.App\\Demo.Aspire.App.ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "Demo.Aspire.App.ServiceDefaults\\Extensions.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:20:42.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

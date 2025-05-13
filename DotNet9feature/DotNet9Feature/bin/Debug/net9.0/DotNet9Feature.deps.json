@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DotNet9Feature/1.0.0": {
+        "runtime": {
+          "DotNet9Feature.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNet9Feature/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

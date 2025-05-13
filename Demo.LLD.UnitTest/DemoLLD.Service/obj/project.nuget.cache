@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "c4JsznWE08k=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Practice\\Demo.LLD.UnitTest\\DemoLLD.Service\\DemoLLD.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmohandass\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gmohandass\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\gmohandass\\.nuget\\packages\\stackexchange.redis\\2.8.24\\stackexchange.redis.2.8.24.nupkg.sha512",
+    "C:\\Users\\gmohandass\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.2\\system.configuration.configurationmanager.9.0.2.nupkg.sha512",
+    "C:\\Users\\gmohandass\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.2\\system.diagnostics.eventlog.9.0.2.nupkg.sha512",
+    "C:\\Users\\gmohandass\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\gmohandass\\.nuget\\packages\\system.runtime.caching\\9.0.2\\system.runtime.caching.9.0.2.nupkg.sha512",
+    "C:\\Users\\gmohandass\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.2\\system.security.cryptography.protecteddata.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
